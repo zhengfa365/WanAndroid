@@ -62,7 +62,7 @@ ext {
             arouterCompiler       : "1.2.2",
 
             tinypinyin            : "2.0.3",
-            blurred               : "1.3.0",
+            Blurred               : "1.3.0",
             lottie                : "2.7.0",
 
             buglyCrashreport      : "3.1.0",
@@ -129,7 +129,7 @@ ext {
             arouterCompiler              : "com.alibaba:arouter-compiler:$versions.arouterCompiler",
 
             tinypinyin                   : "com.github.promeg:tinypinyin:$versions.tinypinyin",
-            blurred                      : "com.github.goweii:blurred:$versions.blurred",
+            Blurred                      : "com.github.goweii:Blurred:$versions.Blurred",
             lottie                       : "com.airbnb.android:lottie:$versions.lottie",
 
             buglyCrashreport             : "com.tencent.bugly:crashreport:$versions.buglyCrashreport",
